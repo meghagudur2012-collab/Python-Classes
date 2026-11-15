@@ -11,6 +11,5 @@ print(product["brand"])
 
 product["stock"] = 20
 product["color"] = "silver"
-
 print(product["stock"])
 print(product["color"])
